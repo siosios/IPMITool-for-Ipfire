@@ -1,0 +1,12 @@
+usr/local/bin/ipmitool
+usr/local/sbin/ipmievd
+usr/local/share/doc/ipmitool
+usr/local/share/doc/ipmitool/AUTHORS
+usr/local/share/doc/ipmitool/COPYING
+usr/local/share/doc/ipmitool/ChangeLog
+usr/local/share/doc/ipmitool/README
+usr/local/share/ipmitool
+usr/local/share/ipmitool/oem_ibm_sel_map
+usr/local/share/man/man1/ipmitool.1
+usr/local/share/man/man8/ipmievd.8
+usr/local/share/misc/enterprise-numbers
